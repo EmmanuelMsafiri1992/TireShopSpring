@@ -1,0 +1,29 @@
+Project Technology
+spring mvc
+spring Rest Api
+hibernate
+mysql
+spring secrity
+bootsrap
+slick carsoual
+Project Module
+Battry
+Rimes
+Tires
+User
+Suppliers
+Sales
+Budget
+Supplying 
+
+Login Page
+Spring Security Custom Login
+It validates the user credentials and provide accessibility into the application.
+save password encryption in Database
+
+Home Page
+statistics Card Contain Total Items and Total Price for each product
+Carsoual product inculde Tires ,Rimes and Tires
+Top Sales Product
+Top Refill Product
+
